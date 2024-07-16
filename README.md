@@ -67,7 +67,7 @@ The repo contains the following:
 * `styles.css`: the [visual aspects](https://www.w3schools.com/w3css/defaulT.asp) of the page's features
 * `README.md`: this file (that you're reading right now).
 
-## 🚀 Environment
+## Environment
 
 This PyScript project contains everything you need so that you can immediately
 open Codespaces, see it running, and deploy at any point.
