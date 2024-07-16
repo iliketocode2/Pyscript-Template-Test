@@ -21,11 +21,6 @@ write code faster.
 * **Prerequisites:** _None_. This template includes your development
   environment and deployable web app for you to create your own site.
 
-## About this PyScript template
-
-This template includes the minimal viable PyScript application, from which you
-can build.
-
 ### Quick Start
 
 1. Click the **Use this Template** button and then **Create a new repository** as can be seen in the image below.
