@@ -21,17 +21,21 @@ write code faster.
 * **Prerequisites:** _None_. This template includes your development
   environment and deployable web app for you to create your own site.
 
-### Quick Start
+### 🚀 Getting started
 
 1. Click the **Use this Template** button and then **Create a new repository** as can be seen in the image below.
    Note: Make sure you've signed in to GitHub otherwise, you wouldn't see the **Use this Template** button.
 ![PyScript web application](https://raw.githubusercontent.com/education/codespaces-project-template-js/main/__images__/use-this-template.png "Use this Template Image Guide")
 1. Select the repository owner (e.g. your GitHub account)
-1. Enter a unique name for your new repository
-1. Click the **Code** button
-1. Click **Create Codespace on main** button
-###
-All done!
+2. Enter a unique name for your new repository
+3. Click the **Code** button
+4. Navigate to the main page of the newly created repository.
+5. Under the repository name, use the Code drop-down menu, and in the Codespaces tab, select **Create Codespace on main** button
+6. Wait as GitHub initializes the Codespace.
+7. When complete you will see your Codespace load with a terminal section at
+   the bottom. Codespaces will install all the required extensions in your
+   container. Once the package installs are completed, you'll be able to start
+   editing and start a LiveServer to see your site.
 
 <details>
    <summary><b>🎥 To learn more about Codespaces, watch the video tutorial series</b></summary>
@@ -63,7 +67,7 @@ The repo contains the following:
 * `styles.css`: the [visual aspects](https://www.w3schools.com/w3css/defaulT.asp) of the page's features
 * `README.md`: this file (that you're reading right now).
 
-## 🚀 Getting started
+## 🚀 Environment
 
 This PyScript project contains everything you need so that you can immediately
 open Codespaces, see it running, and deploy at any point.
@@ -74,18 +78,3 @@ Your development environment is all set for you to start.
 * The [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) plugin (so you can view your site).
 * GitHub [copilot support](https://github.com/features/copilot) (if you have it enabled for your account).
 
-### Create your PyScript app 
-
-1. Create a repository from this template. Use this
-   [create repo link](https://github.com/ntoll/codespaces-project-template-pyscript/generate).
-   Select the repository owner, provide a name, a description if you'd like and
-   if you'd like the new repository to be public or private.
-1. Before creating the Codespace, enable GitHub Copilot for your account.
-1. Navigate to the main page of the newly created repository.
-3. Under the repository name, use the Code drop-down menu, and in the
-   Codespaces tab, select "Create codespace on main".
-4. Wait as GitHub initializes the Codespace.
-5. When complete you will see your Codespace load with a terminal section at
-   the bottom. Codespaces will install all the required extensions in your
-   container. Once the package installs are completed, you'll be able to start
-   editing and start a LiveServer to see your site.
