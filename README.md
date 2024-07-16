@@ -30,9 +30,10 @@ write code faster.
 1. Enter a unique name for your new repository
 1. Click the **Code** button
 1. Click **Create Codespace on main** button
+All done!
 
 <details>
-   <summary><b>🎥 To learn more about Codespaces, watch our video tutorial series</b></summary>
+   <summary><b>🎥 To learn more about Codespaces, watch the video tutorial series</b></summary>
 
    [![Codespaces Tutorial](https://img.youtube.com/vi/ozuDPmcC1io/0.jpg)](https://aka.ms/CodespacesVideoTutorial "Codespaces Tutorial")
 </details>
@@ -87,7 +88,3 @@ Your development environment is all set for you to start.
    the bottom. Codespaces will install all the required extensions in your
    container. Once the package installs are completed, you'll be able to start
    editing and start a LiveServer to see your site.
-
-## 🏃 Deploy your web application
-
-Navigate to a repository's settings and find the 'Pages' tab. Deploy following instructions.
