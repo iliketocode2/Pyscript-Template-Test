@@ -23,11 +23,10 @@ write code faster.
 ![PyScript web application](https://raw.githubusercontent.com/education/codespaces-project-template-js/main/__images__/use-this-template.png "Use this Template Image Guide")
 1. Select the repository owner (e.g. your GitHub account)
 2. Enter a unique name for your new repository
-3. Click the **Code** button
-4. Navigate to the main page of the newly created repository.
-5. Under the repository name, use the Code drop-down menu, and in the Codespaces tab, select **Create Codespace on main** button
-6. Wait as GitHub initializes the Codespace.
-7. When complete you will see your Codespace load with a terminal section at
+3. Navigate to the main page of the newly created repository.
+4. Under the repository name, use the **Code** drop-down menu, and in the **Codespaces** tab, select **Create Codespace on main** button
+5. Wait as GitHub initializes the Codespace.
+6. When complete you will see your Codespace load with a terminal section at
    the bottom. Codespaces will install all the required extensions in your
    container. Once the package installs are completed, you'll be able to start
    editing and start a LiveServer to see your site.
