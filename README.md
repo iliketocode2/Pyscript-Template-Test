@@ -60,6 +60,7 @@ The repo contains the following:
 * `mini-coi.js`: a
   [utility](https://docs.pyscript.net/2024.6.1/user-guide/workers/#http-headers)
   to ensure all PyScript's features are available.
+* `styles.css`: the visual aspects of the page's features
 * `README.md`: this file (that you're reading right now).
 
 ## 🚀 Getting started
