@@ -30,8 +30,6 @@ write code faster.
 1. Enter a unique name for your new repository
 1. Click the **Code** button
 1. Click **Create Codespace on main** button
-1. Customize your PyScript site with Copilot
-1. [Deploy your site](#-deploy-your-web-application)
 
 <details>
    <summary><b>🎥 To learn more about Codespaces, watch our video tutorial series</b></summary>
